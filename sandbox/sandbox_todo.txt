@@ -1,0 +1,37 @@
+OSPREE sandbox  
+Summer 2023
+
+What this is designed for: 
+To test and strengthen your git skills, especially in using branches
+See also: https://github.com/temporalecologylab/labgit/wiki/git-resources
+
+What you need to do:
+(1) Set up a basic sandbox repo
+- Make an new repo (on YOUR GitHub account) and call it 'sandbox.'
+- Create a .gitignore file that ignores all .RData and all .DS_Store files
+- Add to your repo the unzipped folders (and their contents) inside the sandbox.zip 
+- Commit and push all these changes.
+
+
+(2) Add a branch and ....
+- Make a new branch called 'playground' 
+- On your new branch do the following:
+	- remove the folder data/update2019 (and all its contents)
+	- remove all text in the file sandbox_todo.txt and add a one line note to (the one line can say whatever)
+- Commit and push all these changes.
+
+
+(3) Switch back to the master branch and ...
+	- remove the folder data/zohnerdata (and all its contents)
+	- remove the folder analyses/cleaning/zohner_cleaning (and all its contents)
+	- remove all the text in data/dailyclimatedata_WHERE.txt and add a one line note to it
+	- remove all the text in analyses/cleaning/_cleaningREADME.txt and add a one line note to it
+- Commit and push all these changes.
+
+
+(4) Go back to playground and ...
+	- remove the folder analyses/cleaning/misccleaning_adventures (and all its contents)
+- Commit and push all this change.
+
+
+(5) Switch back to master and email me that you are done with the assignment, include the URL to your sandbox repo so I can review it.

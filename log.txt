@@ -1,0 +1,77 @@
+  120  cd /Users/britanywuuu/Desktop/sandbox. 
+  121  git config --global.user
+  122  clear
+  123  git config --global user.name
+  124  git init
+  125  touch .gitignore
+  126  open .gitignore
+  127  git add sandbox
+  128  git status
+  129  git remote add origin https://github.com/buniwuuu/sandbox..git
+  130  git branch -M main
+  131  git push -u origin main
+  132  git remote add origin https://github.com/buniwuuu/sandbox..git
+  133  git branch -M main
+  134  git push -u origin main
+  135  git remote add origin https://github.com/buniwuuu/sandbox..git
+  136  git branch -M main
+  137  git push -u origin main
+  138  git remote add origin https://github.com/buniwuuu/sandbox..git
+  139  git branch -M main
+  140  git push -u origin main
+  141  git remote add origin https://github.com/buniwuuu/sandbox..git
+  142  git branch -M main
+  143  git push -u origin main
+  144  git remote add origin https://github.com/buniwuuu/sandbox..git
+  145  git branch -M main
+  146  git push -u origin main
+  147  git remote add origin https://github.com/buniwuuu/sandbox..git
+  148  git branch -M main
+  149  git push -u origin main
+  150  git push -u origin main
+  151  gho push -u origin main
+  152  git push -u origin main
+  153  git push -u origin main
+  154  git push -u origin main
+  155  git branch playground
+  156  git commit -m"step2"
+  157  git push -u origin playground
+  158  git status
+  159  pwd
+  160  ls
+  161  git status
+  162  git status
+  163  git status
+  164  ls
+  165  git add sandbox
+  166  git status
+  167  add .gitignore
+  168  git add .gitignore
+  169  git commit -m"add gitignore and sandbox"
+  170  git status
+  171  git push -u origin main
+  172  git commit -u origin playground
+  173  git push -u origin playground
+  174  git checkout playground
+  175  git status
+  176  check main
+  177  git checkout main
+  178  git commit -m "new sandbox"
+  179  git push -u origin playground
+  180  git add sandbox
+  181  git commit-m "add sandbox"
+  182  git commit -m"add sandbox"
+  183  git push -u origin playground
+  184  rm /Users/britanywuuu/Desktop/sandbox./sandbox/data/update2019 
+  185  git status
+  186  git commit -m"remove 2019"
+  187  rm '/Users/britanywuuu/Desktop/sandbox./sandbox/data/update2019 '
+  188  rm /Users/britanywuuu/Desktop/sandbox./sandbox/data/update2019 
+  189  git rm update2019
+  190  git rm/Users/britanywuuu/Desktop/sandbox./sandbox/data/update2019 
+  191  git rm /Users/britanywuuu/Desktop/sandbox./sandbox/data/update2019 
+  192  cd /Users/britanywuuu/Desktop/sandbox. 
+  193  git log
+  194  git --no-pager log > log.txt
+  195  history
+  196  history > log.txt
